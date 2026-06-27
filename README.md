@@ -71,3 +71,14 @@ Gradient-weighted Class Activation Mapping (Grad-CAM) visualizations show which 
 ---
 
 ## 📁 Project Structure
+### Brain Tumor
+![Brain Tumor Grad-CAM](gradcam_BrainTumor.png)
+
+### Chest X-ray
+![Chest Xray Grad-CAM](gradcam_ChestXray.png)
+
+### Skin Cancer
+![Skin Cancer Grad-CAM](gradcam_SkinCancer.png)
+
+### Final Dashboard
+![Dashboard](final_dashboard.png)
